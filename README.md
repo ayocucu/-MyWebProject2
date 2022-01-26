@@ -1,7 +1,5 @@
 <h1>✨ LAB 2.2 : README ✨</h1>
 <i>PROJECT BY --> A-yothaya Sri-in</i>
-
-https://video-images.vice.com/articles/606c48a3156fc5009abf0955/lede/1617709443362-bento-studio-ghibli.jpeg?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*
 <br></br>
 <b>------- Feature -------</b>
 <li>list aa</Li>
@@ -10,8 +8,15 @@ https://video-images.vice.com/articles/606c48a3156fc5009abf0955/lede/16177094433
 <br></br>
 <b>------ Example code ------</b>
 <blockquote>
-  
+  print("-----------")
   print("Hello World")
-  
+  print("-----------")
 </blockquote>
 <br></br>
+<b>------ Link to My Git ------</b>
+<a href="https://github.com/ayocucu/Big-Data-Project.git">
+Click Here!
+</a>
+<br></br>
+<b>------ License------</b>
+<i>Coming Soon</i>
