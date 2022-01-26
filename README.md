@@ -9,5 +9,7 @@ https://video-images.vice.com/articles/606c48a3156fc5009abf0955/lede/16177094433
 <li>list cc</Li>
 <br></br>
 <b>------ Example code ------</b>
-<blockquote>print("Hello World")</blockquote>
+<blockquote>
+  print("Hello World")
+</blockquote>
 <br></br>
