@@ -19,4 +19,4 @@ Click Here!
 </a>
 <br></br>
 <b>------ License------</b>
-<i>Coming Soon</i>
+<br><i>Coming Soon</i></br>
